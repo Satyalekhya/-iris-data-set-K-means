@@ -5,4 +5,4 @@ Second - step : Data Understanding - The Iris dataset contains of 6 features and
 Third - step : Data preparation : Cleaning of dataset invovles of replacing null values and redundancy of data 
 Fourth - step : Modelling : In this step i have choose the model as K- Means algorithm for predicting the optimium number of clusters . 
 Fifth - step : Evaluation : In this step after spilting the dataset into train and test model and check the working procedure 
-Sixth - step : Deployment : The final result is here obtaining the optimium number of clusters and represinting visually  
+Sixth - step : Deployment : The final result is here obtaining the optimium number of clusters and represinting visually .   
